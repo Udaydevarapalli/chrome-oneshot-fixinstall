@@ -1,0 +1,17 @@
+
+---
+
+## Quick FAQ
+
+- **“No copyright” means what exactly?**  
+  With **The Unlicense**, you dedicate your work to the public domain. Anyone can use, modify, or redistribute it for any purpose, without permission.
+
+- **Do I still need a license file if I add the notice in the script?**  
+  Yes—keep the `LICENSE` file in the repo. It’s the standard way GitHub and others recognize the terms.
+
+- **Can I include `.msi/.mst` in the repo?**  
+  Generally no—better to **ignore** them (`*.msi`, `*.mst`) and download from the official source in the script (which you already do).
+
+---
+
+If you want, tell me your repo name and I’ll tailor the README title/links and a short description you can paste directly into GitHub’s “About” box.
